@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T11:34:33+05:30",
+ "updated": "2026-07-17T12:03:04+05:30",
  "job_count": 53,
  "sources": [
   {
@@ -7,90 +7,90 @@
    "name": "Srikakulam District Collectorate",
    "level": "district",
    "url": "https://srikakulam.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-manyam",
    "name": "Parvathipuram Manyam District Collectorate",
    "level": "district",
    "url": "https://manyam.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-vizianagaram",
    "name": "Vizianagaram District Collectorate",
    "level": "district",
    "url": "https://vizianagaram.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-visakhapatnam",
    "name": "Visakhapatnam District Collectorate",
    "level": "district",
    "url": "https://visakhapatnam.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-alluriseetharamaraju",
    "name": "Alluri Sitharama Raju District Collectorate",
    "level": "district",
    "url": "https://alluriseetharamaraju.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-anakapalli",
    "name": "Anakapalli District Collectorate",
    "level": "district",
    "url": "https://anakapalli.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-kakinada",
    "name": "Kakinada District Collectorate",
    "level": "district",
    "url": "https://kakinada.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-eastgodavari",
    "name": "East Godavari District Collectorate",
    "level": "district",
    "url": "https://eastgodavari.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-konaseema",
    "name": "Dr. B.R. Ambedkar Konaseema District Collectorate",
    "level": "district",
    "url": "https://konaseema.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-westgodavari",
    "name": "West Godavari District Collectorate",
    "level": "district",
    "url": "https://westgodavari.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-eluru",
@@ -106,162 +106,162 @@
    "name": "Krishna District Collectorate",
    "level": "district",
    "url": "https://krishna.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-ntr",
    "name": "NTR District Collectorate",
    "level": "district",
    "url": "https://ntr.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-guntur",
    "name": "Guntur District Collectorate",
    "level": "district",
    "url": "https://guntur.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-palnadu",
    "name": "Palnadu District Collectorate",
    "level": "district",
    "url": "https://palnadu.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-bapatla",
    "name": "Bapatla District Collectorate",
    "level": "district",
    "url": "https://bapatla.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-prakasam",
    "name": "Prakasam District Collectorate",
    "level": "district",
    "url": "https://prakasam.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-spsnellore",
    "name": "Sri Potti Sriramulu Nellore District Collectorate",
    "level": "district",
    "url": "https://spsnellore.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-kurnool",
    "name": "Kurnool District Collectorate",
    "level": "district",
    "url": "https://kurnool.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-nandyal",
    "name": "Nandyal District Collectorate",
    "level": "district",
    "url": "https://nandyal.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-ananthapuramu",
    "name": "Ananthapuramu District Collectorate",
    "level": "district",
    "url": "https://ananthapuramu.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-srisathyasai",
    "name": "Sri Sathya Sai District Collectorate",
    "level": "district",
    "url": "https://srisathyasai.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-kadapa",
    "name": "YSR Kadapa District Collectorate",
    "level": "district",
    "url": "https://kadapa.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-annamayya",
    "name": "Annamayya District Collectorate",
    "level": "district",
    "url": "https://annamayya.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-tirupati",
    "name": "Tirupati District Collectorate",
    "level": "district",
    "url": "https://tirupati.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "dist-chittoor",
    "name": "Chittoor District Collectorate",
    "level": "district",
    "url": "https://chittoor.ap.gov.in/en/notice_category/recruitment/",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "appsc",
    "name": "APPSC — AP Public Service Commission",
    "level": "state",
    "url": "https://psc.ap.gov.in/Notifications",
-   "status": "ok",
-   "count": 2,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "slprb",
    "name": "SLPRB — AP Police Recruitment Board",
    "level": "state",
    "url": "https://slprb.ap.gov.in/Home.aspx",
-   "status": "empty",
+   "status": "error",
    "count": 0,
-   "note": ""
+   "note": "unreachable"
   },
   {
    "id": "ap-cse",
    "name": "AP School Education / DSC",
    "level": "state",
    "url": "https://cse.ap.gov.in/",
-   "status": "empty",
+   "status": "error",
    "count": 0,
-   "note": ""
+   "note": "unreachable"
   },
   {
    "id": "ap-hmfw",
@@ -277,9 +277,9 @@
    "name": "UPSC — Union Public Service Commission",
    "level": "central",
    "url": "https://upsc.gov.in/whats-new",
-   "status": "ok",
-   "count": 1,
-   "note": ""
+   "status": "error",
+   "count": 0,
+   "note": "unreachable"
   },
   {
    "id": "ssc",
@@ -304,9 +304,9 @@
    "name": "IBPS — Banking Personnel Selection",
    "level": "central",
    "url": "https://www.ibps.in/",
-   "status": "empty",
+   "status": "error",
    "count": 0,
-   "note": ""
+   "note": "unreachable"
   }
  ],
  "jobs": [
@@ -1105,6 +1105,5 @@
    "last_seen": "2026-07-17T11:34:33+05:30",
    "tags": []
   }
- ],
- "note": "SAMPLE DATA generated during build/testing. Run scraper/scrape.py (or the GitHub Action) to replace with real crawled data."
+ ]
 }
