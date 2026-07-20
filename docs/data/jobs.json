@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T20:06:48+05:30",
+ "updated": "2026-07-21T01:32:05+05:30",
  "job_count": 53,
  "sources": [
   {
@@ -268,9 +268,9 @@
    "name": "AP Health, Medical & Family Welfare",
    "level": "state",
    "url": "https://hmfw.ap.gov.in/",
-   "status": "empty",
+   "status": "error",
    "count": 0,
-   "note": ""
+   "note": "unreachable"
   },
   {
    "id": "upsc",
