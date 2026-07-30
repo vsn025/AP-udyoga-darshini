@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-30T20:08:19+05:30",
- "job_count": 28,
+ "updated": "2026-07-31T01:29:01+05:30",
+ "job_count": 27,
  "sources": [
   {
    "id": "dist-srikakulam",
@@ -310,21 +310,6 @@
   }
  ],
  "jobs": [
-  {
-   "id": "appsc|https://psc.ap.gov.in/notif/grp2-05-2026.pdf|group-ii services general recruitment notification no. 05/2026 (897 vacancies)",
-   "title": "Group-II Services General Recruitment Notification No. 05/2026 (897 vacancies)",
-   "org": "APPSC — AP Public Service Commission",
-   "level": "state",
-   "district": null,
-   "url": "https://psc.ap.gov.in/notif/grp2-05-2026.pdf",
-   "source_id": "appsc",
-   "source_name": "APPSC — AP Public Service Commission",
-   "published": "2026-07-30",
-   "deadline": "2026-07-30",
-   "first_seen": "2026-07-17T11:34:33+05:30",
-   "last_seen": "2026-07-17T11:34:33+05:30",
-   "tags": []
-  },
   {
    "id": "dist-srikakulam|https://cdn.s3waas.gov.in/vro-notif.pdf|notification for engagement of village revenue assistants",
    "title": "Notification for engagement of Village Revenue Assistants",
