@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-04T20:26:50+05:30",
- "job_count": 3,
+ "updated": "2026-08-05T01:35:49+05:30",
+ "job_count": 2,
  "sources": [
   {
    "id": "dist-srikakulam",
@@ -311,21 +311,6 @@
  ],
  "jobs": [
   {
-   "id": "upsc|https://upsc.gov.in/exams/cds-ii-2026.pdf|combined defence services examination (ii) 2026 - notification and apply link",
-   "title": "Combined Defence Services Examination (II) 2026 - Notification and apply link",
-   "org": "UPSC — Union Public Service Commission",
-   "level": "central",
-   "district": null,
-   "url": "https://upsc.gov.in/exams/cds-ii-2026.pdf",
-   "source_id": "upsc",
-   "source_name": "UPSC — Union Public Service Commission",
-   "published": "2026-08-04",
-   "deadline": "2026-08-04",
-   "first_seen": "2026-07-17T11:34:33+05:30",
-   "last_seen": "2026-07-17T11:34:33+05:30",
-   "tags": []
-  },
-  {
    "id": "appsc|https://psc.ap.gov.in/notif/aee-2026.pdf|recruitment to the post of assistant executive engineers in various engineering services",
    "title": "Recruitment to the post of Assistant Executive Engineers in various Engineering Services",
    "org": "APPSC — AP Public Service Commission",
@@ -352,7 +337,7 @@
    "published": null,
    "deadline": null,
    "first_seen": "2026-08-04T20:26:50+05:30",
-   "last_seen": "2026-08-04T20:26:50+05:30",
+   "last_seen": "2026-08-05T01:35:49+05:30",
    "tags": []
   }
  ]
