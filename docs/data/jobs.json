@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-04T14:47:54+05:30",
- "job_count": 2,
+ "updated": "2026-08-04T20:26:50+05:30",
+ "job_count": 3,
  "sources": [
   {
    "id": "dist-srikakulam",
@@ -268,8 +268,8 @@
    "name": "AP Health, Medical & Family Welfare",
    "level": "state",
    "url": "https://hmfw.ap.gov.in/",
-   "status": "empty",
-   "count": 0,
+   "status": "ok",
+   "count": 1,
    "note": ""
   },
   {
@@ -338,6 +338,21 @@
    "deadline": "2026-08-05",
    "first_seen": "2026-07-17T11:34:33+05:30",
    "last_seen": "2026-07-17T11:34:33+05:30",
+   "tags": []
+  },
+  {
+   "id": "ap-hmfw|https://hmfw.ap.gov.in/docs/Public_Alert_regarding_Fake_Recruitment_Scam_Dt_03_08_2026.pdf|public alert - fake recruitment scam",
+   "title": "PUBLIC ALERT - FAKE RECRUITMENT SCAM",
+   "org": "AP Health, Medical & Family Welfare",
+   "level": "state",
+   "district": null,
+   "url": "https://hmfw.ap.gov.in/docs/Public_Alert_regarding_Fake_Recruitment_Scam_Dt_03_08_2026.pdf",
+   "source_id": "ap-hmfw",
+   "source_name": "AP Health, Medical & Family Welfare",
+   "published": null,
+   "deadline": null,
+   "first_seen": "2026-08-04T20:26:50+05:30",
+   "last_seen": "2026-08-04T20:26:50+05:30",
    "tags": []
   }
  ]
