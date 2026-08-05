@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-05T20:12:27+05:30",
- "job_count": 2,
+ "updated": "2026-08-06T01:31:44+05:30",
+ "job_count": 1,
  "sources": [
   {
    "id": "dist-srikakulam",
@@ -311,21 +311,6 @@
  ],
  "jobs": [
   {
-   "id": "appsc|https://psc.ap.gov.in/notif/aee-2026.pdf|recruitment to the post of assistant executive engineers in various engineering services",
-   "title": "Recruitment to the post of Assistant Executive Engineers in various Engineering Services",
-   "org": "APPSC — AP Public Service Commission",
-   "level": "state",
-   "district": null,
-   "url": "https://psc.ap.gov.in/notif/aee-2026.pdf",
-   "source_id": "appsc",
-   "source_name": "APPSC — AP Public Service Commission",
-   "published": "2026-08-05",
-   "deadline": "2026-08-05",
-   "first_seen": "2026-07-17T11:34:33+05:30",
-   "last_seen": "2026-07-17T11:34:33+05:30",
-   "tags": []
-  },
-  {
    "id": "ap-hmfw|https://hmfw.ap.gov.in/docs/Public_Alert_regarding_Fake_Recruitment_Scam_Dt_03_08_2026.pdf|public alert - fake recruitment scam",
    "title": "PUBLIC ALERT - FAKE RECRUITMENT SCAM",
    "org": "AP Health, Medical & Family Welfare",
@@ -337,7 +322,7 @@
    "published": null,
    "deadline": null,
    "first_seen": "2026-08-04T20:26:50+05:30",
-   "last_seen": "2026-08-05T20:12:27+05:30",
+   "last_seen": "2026-08-06T01:31:44+05:30",
    "tags": []
   }
  ]
