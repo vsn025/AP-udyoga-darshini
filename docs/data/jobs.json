@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T19:20:39+05:30",
+ "updated": "2026-08-11T00:57:09+05:30",
  "job_count": 1,
  "sources": [
   {
@@ -268,9 +268,9 @@
    "name": "AP Health, Medical & Family Welfare",
    "level": "state",
    "url": "https://hmfw.ap.gov.in/",
-   "status": "error",
-   "count": 0,
-   "note": "unreachable"
+   "status": "ok",
+   "count": 1,
+   "note": ""
   },
   {
    "id": "upsc",
@@ -322,7 +322,7 @@
    "published": null,
    "deadline": null,
    "first_seen": "2026-08-04T20:26:50+05:30",
-   "last_seen": "2026-08-10T13:41:16+05:30",
+   "last_seen": "2026-08-11T00:57:09+05:30",
    "tags": []
   }
  ]
