@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-24T10:37:22+05:30",
- "job_count": 1,
+ "updated": "2026-09-24T17:30:40+05:30",
+ "job_count": 2,
  "sources": [
   {
    "id": "dist-srikakulam",
@@ -259,9 +259,9 @@
    "name": "AP School Education / DSC",
    "level": "state",
    "url": "https://cse.ap.gov.in/",
-   "status": "error",
-   "count": 0,
-   "note": "unreachable"
+   "status": "ok",
+   "count": 1,
+   "note": ""
   },
   {
    "id": "ap-hmfw",
@@ -322,7 +322,22 @@
    "published": null,
    "deadline": null,
    "first_seen": "2026-08-04T20:26:50+05:30",
-   "last_seen": "2026-09-24T10:37:22+05:30",
+   "last_seen": "2026-09-24T17:30:40+05:30",
+   "tags": []
+  },
+  {
+   "id": "ap-cse|https://cse.ap.gov.in/AidedRecruitmentNotifications|aided recruitment",
+   "title": "Aided Recruitment",
+   "org": "AP School Education / DSC",
+   "level": "state",
+   "district": null,
+   "url": "https://cse.ap.gov.in/AidedRecruitmentNotifications",
+   "source_id": "ap-cse",
+   "source_name": "AP School Education / DSC",
+   "published": null,
+   "deadline": null,
+   "first_seen": "2026-09-24T17:30:40+05:30",
+   "last_seen": "2026-09-24T17:30:40+05:30",
    "tags": []
   }
  ]
