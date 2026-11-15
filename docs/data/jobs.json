@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T12:22:14+05:30",
- "job_count": 15,
+ "updated": "2026-11-16T00:29:15+05:30",
+ "job_count": 14,
  "sources": [
   {
    "id": "dist-srikakulam",
@@ -305,7 +305,7 @@
    "level": "central",
    "url": "https://www.ibps.in/",
    "status": "ok",
-   "count": 13,
+   "count": 10,
    "note": ""
   }
  ],
@@ -326,21 +326,6 @@
    "tags": []
   },
   {
-   "id": "ap-cse|https://cse.ap.gov.in/AidedRecruitmentNotifications|aided recruitment",
-   "title": "Aided Recruitment",
-   "org": "AP School Education / DSC",
-   "level": "state",
-   "district": null,
-   "url": "https://cse.ap.gov.in/AidedRecruitmentNotifications",
-   "source_id": "ap-cse",
-   "source_name": "AP School Education / DSC",
-   "published": null,
-   "deadline": null,
-   "first_seen": "2026-09-24T17:30:40+05:30",
-   "last_seen": "2026-10-01T19:05:24+05:30",
-   "tags": []
-  },
-  {
    "id": "ibps|https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf|notification for common recruitment process for crp- po/mts-xvi",
    "title": "Notification for Common Recruitment Process for CRP- PO/MTs-XVI",
    "org": "IBPS — Banking Personnel Selection",
@@ -352,7 +337,7 @@
    "published": "2026-07-01",
    "deadline": null,
    "first_seen": "2026-11-13T01:40:59+05:30",
-   "last_seen": "2026-11-15T12:22:14+05:30",
+   "last_seen": "2026-11-16T00:29:15+05:30",
    "tags": []
   },
   {
@@ -367,7 +352,7 @@
    "published": null,
    "deadline": null,
    "first_seen": "2026-11-13T01:40:59+05:30",
-   "last_seen": "2026-11-15T12:22:14+05:30",
+   "last_seen": "2026-11-16T00:29:15+05:30",
    "tags": []
   },
   {
@@ -382,7 +367,7 @@
    "published": null,
    "deadline": null,
    "first_seen": "2026-11-13T01:40:59+05:30",
-   "last_seen": "2026-11-15T12:22:14+05:30",
+   "last_seen": "2026-11-16T00:29:15+05:30",
    "tags": []
   },
   {
@@ -397,7 +382,7 @@
    "published": null,
    "deadline": null,
    "first_seen": "2026-11-13T01:40:59+05:30",
-   "last_seen": "2026-11-15T12:22:14+05:30",
+   "last_seen": "2026-11-16T00:29:15+05:30",
    "tags": []
   },
   {
@@ -412,7 +397,37 @@
    "published": null,
    "deadline": null,
    "first_seen": "2026-11-13T01:40:59+05:30",
-   "last_seen": "2026-11-15T12:22:14+05:30",
+   "last_seen": "2026-11-16T00:29:15+05:30",
+   "tags": []
+  },
+  {
+   "id": "ibps|https://www.ibps.in/index.php/recruitment|recruitment exams",
+   "title": "RECRUITMENT EXAMS",
+   "org": "IBPS — Banking Personnel Selection",
+   "level": "central",
+   "district": null,
+   "url": "https://www.ibps.in/index.php/recruitment/",
+   "source_id": "ibps",
+   "source_name": "IBPS — Banking Personnel Selection",
+   "published": null,
+   "deadline": null,
+   "first_seen": "2026-11-13T01:40:59+05:30",
+   "last_seen": "2026-11-16T00:29:15+05:30",
+   "tags": []
+  },
+  {
+   "id": "ibps|https://www.ibps.in/index.php/services|personnel selection services for recruitment, promotion and placement",
+   "title": "Personnel Selection Services for Recruitment, Promotion and Placement",
+   "org": "IBPS — Banking Personnel Selection",
+   "level": "central",
+   "district": null,
+   "url": "https://www.ibps.in/index.php/services",
+   "source_id": "ibps",
+   "source_name": "IBPS — Banking Personnel Selection",
+   "published": null,
+   "deadline": null,
+   "first_seen": "2026-11-13T01:40:59+05:30",
+   "last_seen": "2026-11-16T00:29:15+05:30",
    "tags": []
   },
   {
@@ -461,36 +476,6 @@
    "tags": []
   },
   {
-   "id": "ibps|https://www.ibps.in/index.php/recruitment|recruitment exams",
-   "title": "RECRUITMENT EXAMS",
-   "org": "IBPS — Banking Personnel Selection",
-   "level": "central",
-   "district": null,
-   "url": "https://www.ibps.in/index.php/recruitment/",
-   "source_id": "ibps",
-   "source_name": "IBPS — Banking Personnel Selection",
-   "published": null,
-   "deadline": null,
-   "first_seen": "2026-11-13T01:40:59+05:30",
-   "last_seen": "2026-11-15T12:22:14+05:30",
-   "tags": []
-  },
-  {
-   "id": "ibps|https://www.ibps.in/index.php/services|personnel selection services for recruitment, promotion and placement",
-   "title": "Personnel Selection Services for Recruitment, Promotion and Placement",
-   "org": "IBPS — Banking Personnel Selection",
-   "level": "central",
-   "district": null,
-   "url": "https://www.ibps.in/index.php/services",
-   "source_id": "ibps",
-   "source_name": "IBPS — Banking Personnel Selection",
-   "published": null,
-   "deadline": null,
-   "first_seen": "2026-11-13T01:40:59+05:30",
-   "last_seen": "2026-11-15T12:22:14+05:30",
-   "tags": []
-  },
-  {
    "id": "ibps|https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf|notification for common recruitment process for crp- spl-xvi",
    "title": "Notification for Common Recruitment Process for CRP- SPL-XVI",
    "org": "IBPS — Banking Personnel Selection",
@@ -502,7 +487,7 @@
    "published": "2026-07-01",
    "deadline": null,
    "first_seen": "2026-11-14T01:24:09+05:30",
-   "last_seen": "2026-11-15T12:22:14+05:30",
+   "last_seen": "2026-11-16T00:29:15+05:30",
    "tags": []
   },
   {
@@ -517,7 +502,7 @@
    "published": null,
    "deadline": null,
    "first_seen": "2026-11-14T01:24:09+05:30",
-   "last_seen": "2026-11-15T12:22:14+05:30",
+   "last_seen": "2026-11-16T00:29:15+05:30",
    "tags": []
   },
   {
@@ -532,7 +517,7 @@
    "published": "2026-06-30",
    "deadline": null,
    "first_seen": "2026-11-15T04:07:20+05:30",
-   "last_seen": "2026-11-15T12:22:14+05:30",
+   "last_seen": "2026-11-16T00:29:15+05:30",
    "tags": []
   }
  ]
